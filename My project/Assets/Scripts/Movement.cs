@@ -19,12 +19,17 @@ public class Movement : MonoBehaviour
     [Header("Falling Settings")]
     public float fallAcceleration = 5f; // Additional downward acceleration when falling
 
+    public Animator animator;
     private float horizontalInput;
     private Rigidbody2D rb;
+
+    private bool wasGrounded; // Tracks if the player was previously grounded
+    private Vector3 defaultScale;
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        defaultScale = transform.localScale; // Store the default scale for flipping
     }
 
     private void Update()
@@ -36,6 +41,20 @@ public class Movement : MonoBehaviour
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
             Jump();
+            animator.SetBool("isJump", true);
+        }
+
+        // Update the Speed parameter in Animator
+        animator.SetFloat("Speed", Mathf.Abs(horizontalInput));
+
+        // Handle character rotation based on movement direction
+        if (horizontalInput > 0) // Moving right
+        {
+            transform.localScale = new Vector3(defaultScale.x, defaultScale.y, defaultScale.z);
+        }
+        else if (horizontalInput < 0) // Moving left
+        {
+            transform.localScale = new Vector3(-defaultScale.x, defaultScale.y, defaultScale.z);
         }
     }
 
@@ -63,15 +82,28 @@ public class Movement : MonoBehaviour
         }
         else if (rb.linearVelocity.y > 0) // If the player is jumping upwards
         {
-            
             // Apply upward deceleration for a more controlled jump
             rb.linearVelocity += new Vector2(0, -jumpDeceleration * Time.fixedDeltaTime); // Slow down upwards movement
         }
+
+        // Handle landing detection
+        if (isGrounded && !wasGrounded)
+        {
+            OnLanding();
+        }
+
+        wasGrounded = isGrounded; // Update grounded state
     }
 
     private void Jump()
     {
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce); // Set jump velocity
+    }
+
+    private void OnLanding()
+    {
+        animator.SetBool("isJump", false); // Transition to idle/running animation
+       // Debug.Log("Player landed!");
     }
 
     private void OnCollisionStay2D(Collision2D collision)

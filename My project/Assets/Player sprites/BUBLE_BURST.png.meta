@@ -1,0 +1,1173 @@
+fileFormatVersion: 2
+guid: ff229769ff4c1cb4b811796f4075ed67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9088308456704010348
+    second: BUBLE_BURST_0
+  - first:
+      213: -1469260846118468094
+    second: BUBLE_BURST_1
+  - first:
+      213: -6674318968260397692
+    second: BUBLE_BURST_2
+  - first:
+      213: -2789017336050558357
+    second: BUBLE_BURST_3
+  - first:
+      213: 7969875466203201639
+    second: BUBLE_BURST_4
+  - first:
+      213: 3426151419198085461
+    second: BUBLE_BURST_5
+  - first:
+      213: 5817434431155665605
+    second: BUBLE_BURST_6
+  - first:
+      213: -8012069926483020798
+    second: BUBLE_BURST_7
+  - first:
+      213: -7272132617403117257
+    second: BUBLE_BURST_8
+  - first:
+      213: -6567105939423018815
+    second: BUBLE_BURST_9
+  - first:
+      213: 2838803794885677408
+    second: BUBLE_BURST_10
+  - first:
+      213: -1797159736945523132
+    second: BUBLE_BURST_11
+  - first:
+      213: 5928509562920032726
+    second: BUBLE_BURST_12
+  - first:
+      213: 8127916653489703122
+    second: BUBLE_BURST_13
+  - first:
+      213: 6274908067515706814
+    second: BUBLE_BURST_14
+  - first:
+      213: 633350020511754258
+    second: BUBLE_BURST_15
+  - first:
+      213: 2697968806717597727
+    second: BUBLE_BURST_16
+  - first:
+      213: -7029557512567804383
+    second: BUBLE_BURST_17
+  - first:
+      213: 644499661896344948
+    second: BUBLE_BURST_18
+  - first:
+      213: 6570647402703471631
+    second: BUBLE_BURST_19
+  - first:
+      213: 8555536703944438246
+    second: BUBLE_BURST_20
+  - first:
+      213: 5625985455547469269
+    second: BUBLE_BURST_21
+  - first:
+      213: 6901825165899223169
+    second: BUBLE_BURST_22
+  - first:
+      213: 1537170612370442244
+    second: BUBLE_BURST_23
+  - first:
+      213: 295531569169965886
+    second: BUBLE_BURST_24
+  - first:
+      213: -1079412134895552626
+    second: BUBLE_BURST_25
+  - first:
+      213: 5754758849953116910
+    second: BUBLE_BURST_26
+  - first:
+      213: 2309436657137954172
+    second: BUBLE_BURST_27
+  - first:
+      213: 8229588476681731098
+    second: BUBLE_BURST_28
+  - first:
+      213: 7740256993608601763
+    second: BUBLE_BURST_29
+  - first:
+      213: -4764635563275598272
+    second: BUBLE_BURST_30
+  - first:
+      213: 8530774822666799219
+    second: BUBLE_BURST_31
+  - first:
+      213: -8302123468572947762
+    second: BUBLE_BURST_32
+  - first:
+      213: -2239650865081525278
+    second: BUBLE_BURST_33
+  - first:
+      213: 2897859791876134510
+    second: BUBLE_BURST_34
+  - first:
+      213: 4868787626414651008
+    second: BUBLE_BURST_35
+  - first:
+      213: -6488185290446899133
+    second: BUBLE_BURST_36
+  - first:
+      213: 5407592670489441512
+    second: BUBLE_BURST_37
+  - first:
+      213: -7531951272714065034
+    second: BUBLE_BURST_38
+  - first:
+      213: -2264149599860753735
+    second: BUBLE_BURST_39
+  - first:
+      213: 7397710744369775345
+    second: BUBLE_BURST_40
+  - first:
+      213: 4305274626753066465
+    second: BUBLE_BURST_41
+  - first:
+      213: 4312212780151849844
+    second: BUBLE_BURST_42
+  - first:
+      213: 936826780500163387
+    second: BUBLE_BURST_43
+  - first:
+      213: 1346844417226535070
+    second: BUBLE_BURST_44
+  - first:
+      213: 3589422335773556894
+    second: BUBLE_BURST_45
+  - first:
+      213: -6089479430864132797
+    second: BUBLE_BURST_46
+  - first:
+      213: 8794142041296965705
+    second: BUBLE_BURST_47
+  - first:
+      213: 5027301346881747225
+    second: BUBLE_BURST_48
+  - first:
+      213: -209270419876840870
+    second: BUBLE_BURST_49
+  - first:
+      213: 440902508744434276
+    second: BUBLE_BURST_50
+  - first:
+      213: -4930230518237647967
+    second: BUBLE_BURST_51
+  - first:
+      213: -6140209669508981786
+    second: BUBLE_BURST_52
+  - first:
+      213: -5608274378110056553
+    second: BUBLE_BURST_53
+  - first:
+      213: -4284121979860589156
+    second: BUBLE_BURST_54
+  - first:
+      213: -3125786323862843797
+    second: BUBLE_BURST_55
+  - first:
+      213: -1219768312379834609
+    second: BUBLE_BURST_56
+  - first:
+      213: -6276315653621423146
+    second: BUBLE_BURST_57
+  - first:
+      213: 6554541106663447921
+    second: BUBLE_BURST_58
+  - first:
+      213: -5451573480819638195
+    second: BUBLE_BURST_59
+  - first:
+      213: 1994327089573536185
+    second: BUBLE_BURST_60
+  - first:
+      213: -3677651557241252660
+    second: BUBLE_BURST_61
+  - first:
+      213: 2497605107110437427
+    second: BUBLE_BURST_62
+  - first:
+      213: -3074316093482798532
+    second: BUBLE_BURST_63
+  - first:
+      213: -1266570894240976420
+    second: BUBLE_BURST_64
+  - first:
+      213: 701378720714026444
+    second: BUBLE_BURST_65
+  - first:
+      213: -6752362966516175754
+    second: BUBLE_BURST_66
+  - first:
+      213: -3098789943292561597
+    second: BUBLE_BURST_67
+  - first:
+      213: -7579998332306807615
+    second: BUBLE_BURST_68
+  - first:
+      213: 6234755097596894685
+    second: BUBLE_BURST_69
+  - first:
+      213: 4336565174184472218
+    second: BUBLE_BURST_70
+  - first:
+      213: -5293964788106063188
+    second: BUBLE_BURST_71
+  - first:
+      213: 275169653423917181
+    second: BUBLE_BURST_72
+  - first:
+      213: 8859807114790600916
+    second: BUBLE_BURST_73
+  - first:
+      213: -685299552771889748
+    second: BUBLE_BURST_74
+  - first:
+      213: -5195081720095560260
+    second: BUBLE_BURST_75
+  - first:
+      213: -8041860853671250513
+    second: BUBLE_BURST_76
+  - first:
+      213: -9148255577235123766
+    second: BUBLE_BURST_77
+  - first:
+      213: -5374732184888980682
+    second: BUBLE_BURST_78
+  - first:
+      213: -6075567530638087913
+    second: BUBLE_BURST_79
+  - first:
+      213: -6931389855091519367
+    second: BUBLE_BURST_80
+  - first:
+      213: -7662038069188834428
+    second: BUBLE_BURST_81
+  - first:
+      213: 1827101341090163463
+    second: BUBLE_BURST_82
+  - first:
+      213: -5609585837581630666
+    second: BUBLE_BURST_83
+  - first:
+      213: 2249838523971974281
+    second: BUBLE_BURST_84
+  - first:
+      213: -5765420151421967070
+    second: BUBLE_BURST_85
+  - first:
+      213: -1775668862624323
+    second: BUBLE_BURST_86
+  - first:
+      213: 9046982322895282012
+    second: BUBLE_BURST_87
+  - first:
+      213: -7788962523606094260
+    second: BUBLE_BURST_88
+  - first:
+      213: -6884368863309850247
+    second: BUBLE_BURST_89
+  - first:
+      213: 6839599602416055562
+    second: BUBLE_BURST_90
+  - first:
+      213: -8060480366360659773
+    second: BUBLE_BURST_91
+  - first:
+      213: 6855972437640664705
+    second: BUBLE_BURST_92
+  - first:
+      213: -172606627351995235
+    second: BUBLE_BURST_93
+  - first:
+      213: -7006862758383868388
+    second: BUBLE_BURST_94
+  - first:
+      213: 4589526034443488734
+    second: BUBLE_BURST_95
+  - first:
+      213: -2940673793389625443
+    second: BUBLE_BURST_96
+  - first:
+      213: 589476770219630599
+    second: BUBLE_BURST_97
+  - first:
+      213: -3979379724818867652
+    second: BUBLE_BURST_98
+  - first:
+      213: 4192852375894735218
+    second: BUBLE_BURST_99
+  - first:
+      213: 5759994664188647226
+    second: BUBLE_BURST_100
+  - first:
+      213: 6555713227673909532
+    second: BUBLE_BURST_101
+  - first:
+      213: -9115260145958958193
+    second: BUBLE_BURST_102
+  - first:
+      213: -8062967485190629730
+    second: BUBLE_BURST_103
+  - first:
+      213: 4200441166597131236
+    second: BUBLE_BURST_104
+  - first:
+      213: -4513768569806741834
+    second: BUBLE_BURST_105
+  - first:
+      213: 6315430576387600978
+    second: BUBLE_BURST_106
+  - first:
+      213: 5416419866544039731
+    second: BUBLE_BURST_107
+  - first:
+      213: -1629801819515804253
+    second: BUBLE_BURST_108
+  - first:
+      213: -8392434757938216762
+    second: BUBLE_BURST_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BUBLE_BURST_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4979afc4c97dfd180800000000000000
+      internalID: -9088308456704010348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20608b08b032c9be0800000000000000
+      internalID: -1469260846118468094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485ff2ba24e0063a0800000000000000
+      internalID: -6674318968260397692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6adc4c728b6b49d0800000000000000
+      internalID: -2789017336050558357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7608423a28faa9e60800000000000000
+      internalID: 7969875466203201639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559900030922c8f20800000000000000
+      internalID: 3426151419198085461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caf8250bcdabb050800000000000000
+      internalID: 5817434431155665605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204b3640ad86fc090800000000000000
+      internalID: -8012069926483020798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731d724f9e1341b90800000000000000
+      internalID: -7272132617403117257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0455e21f3fcd4a0800000000000000
+      internalID: -6567105939423018815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0611135c205756720800000000000000
+      internalID: 2838803794885677408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4464ab2bdb43f07e0800000000000000
+      internalID: -1797159736945523132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9da51790c464250800000000000000
+      internalID: 5928509562920032726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d84c3ff1292cc070800000000000000
+      internalID: 8127916653489703122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebda18a34a3f41750800000000000000
+      internalID: 6274908067515706814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218e61fec7c1ac800800000000000000
+      internalID: 633350020511754258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18ac73d55c117520800000000000000
+      internalID: 2697968806717597727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ea73fbfaef17e90800000000000000
+      internalID: -7029557512567804383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475e03d1709b1f800800000000000000
+      internalID: 644499661896344948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04cb7efff0af2b50800000000000000
+      internalID: 6570647402703471631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1bc659d4f5bb670800000000000000
+      internalID: 8555536703944438246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddcb6dc6f3831e40800000000000000
+      internalID: 5625985455547469269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1805643cb6538cf50800000000000000
+      internalID: 6901825165899223169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40882851780255510800000000000000
+      internalID: 1537170612370442244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e332a487560f91400800000000000000
+      internalID: 295531569169965886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87fd4dd1682501f0800000000000000
+      internalID: -1079412134895552626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2bd7b1fa20ddf40800000000000000
+      internalID: 5754758849953116910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d29fb5764cc0020800000000000000
+      internalID: 2309436657137954172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c33480e1f553270800000000000000
+      internalID: 8229588476681731098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0164ed9baea6b60800000000000000
+      internalID: 7740256993608601763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUBLE_BURST_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046c3c6033d90edb0800000000000000
+      internalID: -4764635563275598272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f52c198045fd9124293becea1087f442
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BUBLE_BURST_0: -9088308456704010348
+      BUBLE_BURST_1: -1469260846118468094
+      BUBLE_BURST_10: 2838803794885677408
+      BUBLE_BURST_11: -1797159736945523132
+      BUBLE_BURST_12: 5928509562920032726
+      BUBLE_BURST_13: 8127916653489703122
+      BUBLE_BURST_14: 6274908067515706814
+      BUBLE_BURST_15: 633350020511754258
+      BUBLE_BURST_16: 2697968806717597727
+      BUBLE_BURST_17: -7029557512567804383
+      BUBLE_BURST_18: 644499661896344948
+      BUBLE_BURST_19: 6570647402703471631
+      BUBLE_BURST_2: -6674318968260397692
+      BUBLE_BURST_20: 8555536703944438246
+      BUBLE_BURST_21: 5625985455547469269
+      BUBLE_BURST_22: 6901825165899223169
+      BUBLE_BURST_23: 1537170612370442244
+      BUBLE_BURST_24: 295531569169965886
+      BUBLE_BURST_25: -1079412134895552626
+      BUBLE_BURST_26: 5754758849953116910
+      BUBLE_BURST_27: 2309436657137954172
+      BUBLE_BURST_28: 8229588476681731098
+      BUBLE_BURST_29: 7740256993608601763
+      BUBLE_BURST_3: -2789017336050558357
+      BUBLE_BURST_30: -4764635563275598272
+      BUBLE_BURST_4: 7969875466203201639
+      BUBLE_BURST_5: 3426151419198085461
+      BUBLE_BURST_6: 5817434431155665605
+      BUBLE_BURST_7: -8012069926483020798
+      BUBLE_BURST_8: -7272132617403117257
+      BUBLE_BURST_9: -6567105939423018815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
