@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -96,7 +96,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -137,20 +137,20 @@ TextureImporter:
       name: IDLE_CHILLGUY_0
       rect:
         serializedVersion: 2
-        x: 47
-        y: 259
-        width: 53
-        height: 121
+        x: 0
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 18fc970bf3fe54580800000000000000
-      internalID: -8843399236449349759
+      spriteID: f844862b039244340a67c649ff2a2c8b
+      internalID: -1745566604
       vertices: []
       indices: 
       edges: []
@@ -159,20 +159,20 @@ TextureImporter:
       name: IDLE_CHILLGUY_1
       rect:
         serializedVersion: 2
-        x: 175
-        y: 259
-        width: 53
-        height: 121
+        x: 128
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 560e7db9a06e260a0800000000000000
-      internalID: -6889691546684759963
+      spriteID: 832616558ee8e334aa796bed45b7e2d6
+      internalID: -1973987770
       vertices: []
       indices: 
       edges: []
@@ -181,20 +181,20 @@ TextureImporter:
       name: IDLE_CHILLGUY_2
       rect:
         serializedVersion: 2
-        x: 303
-        y: 259
-        width: 53
-        height: 119
+        x: 256
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2491910e37682a770800000000000000
-      internalID: 8620600468979652930
+      spriteID: 655ac1c9685c23446a2e909c6c060c6a
+      internalID: -324469760
       vertices: []
       indices: 
       edges: []
@@ -203,20 +203,20 @@ TextureImporter:
       name: IDLE_CHILLGUY_3
       rect:
         serializedVersion: 2
-        x: 47
-        y: 131
-        width: 53
-        height: 119
+        x: 0
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 46cdbeffd69805ae0800000000000000
-      internalID: -1562597965159474076
+      spriteID: 3ec1d969ec1360443a6caf59a36dc646
+      internalID: 2118866468
       vertices: []
       indices: 
       edges: []
@@ -225,20 +225,20 @@ TextureImporter:
       name: IDLE_CHILLGUY_4
       rect:
         serializedVersion: 2
-        x: 175
-        y: 131
-        width: 53
-        height: 121
+        x: 128
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 17eb1fd6ed8d75a00800000000000000
-      internalID: 745302713192005233
+      spriteID: dd3b6d2a959fd9b4e9b8a7a716772f0e
+      internalID: 2097101447
       vertices: []
       indices: 
       edges: []
@@ -247,20 +247,20 @@ TextureImporter:
       name: IDLE_CHILLGUY_5
       rect:
         serializedVersion: 2
-        x: 303
-        y: 131
-        width: 53
-        height: 121
+        x: 256
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a2a0728c40555d520800000000000000
-      internalID: 2726178628468935210
+      spriteID: 36f47d3c4e8b4304c955601e55308c9b
+      internalID: -465862006
       vertices: []
       indices: 
       edges: []
@@ -269,20 +269,20 @@ TextureImporter:
       name: IDLE_CHILLGUY_6
       rect:
         serializedVersion: 2
-        x: 47
-        y: 3
-        width: 53
-        height: 120
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 74a0e295a549510f0800000000000000
-      internalID: -1146847414331766201
+      spriteID: 076883e0dd8a657459647822a60aa106
+      internalID: 1270808454
       vertices: []
       indices: 
       edges: []
@@ -291,20 +291,20 @@ TextureImporter:
       name: IDLE_CHILLGUY_7
       rect:
         serializedVersion: 2
-        x: 175
-        y: 3
-        width: 53
-        height: 120
+        x: 128
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5df9bb0a52e07d820800000000000000
-      internalID: 2942836436283138005
+      spriteID: 0b2cbc68563c3144593365238475e64e
+      internalID: -1975379716
       vertices: []
       indices: 
       edges: []
@@ -313,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1418dd36e3d3afb479bafda5a894e543
     internalID: 0
     vertices: []
     indices: 
@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IDLE_CHILLGUY_0: -1745566604
+      IDLE_CHILLGUY_1: -1973987770
+      IDLE_CHILLGUY_2: -324469760
+      IDLE_CHILLGUY_3: 2118866468
+      IDLE_CHILLGUY_4: 2097101447
+      IDLE_CHILLGUY_5: -465862006
+      IDLE_CHILLGUY_6: 1270808454
+      IDLE_CHILLGUY_7: -1975379716
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
