@@ -7,8 +7,10 @@ using TMPro;
 public class ChatBubble : MonoBehaviour
 {
     public GameObject dialoguePanel;
-    public Text dialogueText;
+    public TextMeshProUGUI dialogueText;
+    public TextMeshProUGUI npcName;
     public string[] dialogue;
+    public string npcNameText;
     private int index = 0;
 
     public float wordSpeed;
@@ -18,6 +20,7 @@ public class ChatBubble : MonoBehaviour
     void Start()
     {
         dialogueText.text = "";
+        npcName.text = npcNameText;
     }
 
     void Update()
